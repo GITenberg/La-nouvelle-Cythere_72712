@@ -1,0 +1,34 @@
+_repo: La-nouvelle-Cythere_72712
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mativet, Antoine‏
+    aliases:
+    - Mathivet, Antoine
+    - Monchoisy‏
+    gutenberg_agent_id: '56782'
+    url: http://www.gutenberg.org/2009/agents/56782
+description: ''
+gutenberg_issued: '2024-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72712'
+  lccn: 05012289
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5773215p
+pgterms:marc905: 20230305000401monchoisy
+pgterms:marc906: '1888'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bCharpentier, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tahiti (French Polynesia : Island) -- Description and travel'
+- !lcc 'DU'
+- GITenberg
+title: La nouvelle Cythère
+url: http://www.gutenberg.org/ebooks/72712
